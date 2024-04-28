@@ -10,4 +10,4 @@ A simple and elegant landing page for a fictional coffee cafe called LoveIsCoffe
 - HTML5
 - CSS3
 
-View the live demo [here]()!
+View the live demo [here](https://siniekoo19.github.io/Landing-Page-Cafe-Website/)!
